@@ -27,7 +27,9 @@ All implementations are in Python language and they're located in the implementa
 
 # About dataset #
 All data is from:
+<br/>
  https://snap.stanford.edu/data/index.html
+ <br/>
  https://networkrepository.com/
 
 # How to use #
