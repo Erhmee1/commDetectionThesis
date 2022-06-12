@@ -25,6 +25,11 @@ We noticed that some inter-community edges' BC would be lower because many inter
 
 All implementations are in Python language and they're located in the implementation folder. We chose Jupyter Notebook as our environment due to its flexibility and advantages for testing and experimenting. Data used for the implementations are in the data folder.
 
+# About dataset #
+All data is from:
+ https://snap.stanford.edu/data/index.html
+ https://networkrepository.com/
+
 # How to use #
 1. It's not necessary to use a notebook to use the algorithm but it's recommended
 2. Install the following packages (copy the command below and execute it on the terminal of the environment you are using):
